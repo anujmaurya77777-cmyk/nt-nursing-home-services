@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anujmaurya77777-cmyk.github.io/nt-nursing-home-services/sitemap.xml
